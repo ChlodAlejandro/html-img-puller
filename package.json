@@ -1,0 +1,25 @@
+{
+  "name": "html-img-puller",
+  "version": "1.0.0",
+  "description": "Pulls images from an HTML file into a folder.",
+  "main": "pull.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "fs-jetpack": "^3.1.0",
+    "log-timestamp": "^0.3.0",
+    "mime-types": "^2.1.27",
+    "regex-escape": "^3.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChlodAlejandro/html-img-puller.git"
+  },
+  "author": "ChlodAlejandro",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ChlodAlejandro/html-img-puller/issues"
+  },
+  "homepage": "https://github.com/ChlodAlejandro/html-img-puller#readme"
+}
